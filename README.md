@@ -15,7 +15,11 @@ I am Christopher Scott, I am currently a student at BYU Pathways Online and I am
 
 ## Projects
 Here is a list of some of my favorite projects:
--
+- cse341-team-final - https://github.com/BYUI-Student2081190/cse341-team-final
+- wdd340 - https://github.com/BYUI-Student2081190/wdd340
+- SacramentMeetingPlanner - https://github.com/BYUI-Student2081190/SacramentMeetingPlanner
+- MegaDesk3.1 - https://github.com/BYUI-Student2081190/MegaDesk3.1
+- wdd230_Final - https://github.com/BYUI-Student2081190/wdd230_Final
 
 ## Let's Connect
 - Here is my LinkedIn: linkedin.com/in/chris-scott-6519a5348
